@@ -15,10 +15,6 @@ A modern, responsive calculator built with **React** and **Tailwind CSS**, featu
   - Fun explanation or math joke about the current result
 - Keyboard support for numbers, operations, Enter, Backspace, and Escape
 
-## Demo
-
-*Host online on Vercel or Netlify to share a live demo.*
-
 ## Screenshots
 
 ![Calculator Screenshot](calculator-app/src/assets/Screenshot.png)
