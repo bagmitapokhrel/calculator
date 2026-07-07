@@ -24,4 +24,4 @@ A modern, responsive calculator built with **React** and **Tailwind CSS**, featu
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Bebika3/calculator.git
+git clone https://github.com/bagmitapokhrel/calculator.git
